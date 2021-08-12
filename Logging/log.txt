@@ -1,0 +1,5 @@
+2021-08-11 16H:17:19 CRITICAL-Exception  Error
+Traceback (most recent call last):
+  File "<ipython-input-3-9191e58ffcf7>", line 4, in <module>
+    a/b
+ZeroDivisionError: division by zero
